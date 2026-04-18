@@ -38,24 +38,5 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🔗 **Project 1** – Add your best project here  
-- 🔗 **Project 2** – Something with real users or API  
-- 🔗 **Project 3** – Full-stack app  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rakshitha-dotpy&show_icons=true&theme=radical" />
-<img src="https://streak-stats.demolab.com?user=rakshitha-dotpy&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitha-dotpy&layout=compact&theme=radical" />
-</p>
-
----
-
 ## ✨ Quote I like
 > “First, solve the problem. Then, write the code.”
