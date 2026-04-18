@@ -18,9 +18,15 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://instagram.com/_rakshitha.g.v_"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Rakshitha%20Velmurugan"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gvrakshithaofficial@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/_rakshitha.g.v_">
+  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/rakshitha-velmurugan-713165378/">
+  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:gvrakshithaofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -36,8 +42,6 @@
 - 🔗 **Project 1** – Add your best project here  
 - 🔗 **Project 2** – Something with real users or API  
 - 🔗 **Project 3** – Full-stack app  
-
-👉 (THIS is what recruiters care about most)
 
 ---
 
