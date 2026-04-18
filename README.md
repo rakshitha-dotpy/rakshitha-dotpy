@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=220&section=header&text=Rakshitha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<h3 align="center">🎓 B.Sc Cyber Security Student</h3>
 <h3 align="center">💻 Just figuring things out, building, and learning every day</h3>
 
 <p align="center">
