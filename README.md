@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rakshitha</h1>
-<h3 align="center">💻 Figuring things out while building and learning every day</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=220&section=header&text=Rakshitha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h3 align="center">💻 Just figuring things out, building, and learning every day</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakshitha-dotpy&color=ff69b4&style=flat" />
@@ -10,9 +13,9 @@
 ## 💫 About Me
 - 🔭 Working on real-time web projects & DSA  
 - 🤝 Open to collaboration (open-source, hackathons)  
-- 🛠️ Learning backend & system design  
-- 🌱 Currently learning **React + Node.js + DSA**  
-- ⚡ I turn random ideas into working projects overnight  
+- 🛠️ Exploring backend development & system design  
+- 🌱 Learning React, Node.js & Data Structures  
+- ⚡ Turning random ideas into working projects  
 
 ---
 
@@ -38,5 +41,7 @@
 
 ---
 
-## ✨ Quote I like
-> “First, solve the problem. Then, write the code.”
+## ✨ Quote
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
