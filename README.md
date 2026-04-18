@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakshitha</h1>
-<h3 align="center">🚀 Building real-time web apps | DSA enthusiast | Future backend engineer</h3>
+<h3 align="center">💻 Figuring things out while building and learning every day</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakshitha-dotpy&color=ff69b4&style=flat" />
