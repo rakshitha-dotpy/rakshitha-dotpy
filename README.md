@@ -1,61 +1,127 @@
-<h1 align="center">Hi 👋, I'm Rakshitha</h1>
-<h3 align="center">🚀 Building real-time web apps | DSA enthusiast | Future backend engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakshitha-dotpy&color=ff69b4&style=flat" />
-</p>
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=rakshitha-dotpy&color=ff69b4&style=flat-square&label=Visitors" alt="Visitor Badge" />
 
 ---
+
+<!-- Hero Section with Soft Animation -->
+<div style="margin: 40px 0; animation: fadeIn 1s ease-in;">
+
+# ✨ Rakshitha
+
+### 🚀 Building real-time web apps | DSA enthusiast | Future backend engineer
+
+</div>
+
+---
+
+</div>
 
 ## 💫 About Me
-- 🔭 Working on real-time web projects & DSA  
-- 🤝 Open to collaboration (open-source, hackathons)  
-- 🛠️ Learning backend & system design  
-- 🌱 Currently learning **React + Node.js + DSA**  
-- ⚡ I turn random ideas into working projects overnight  
+
+<div style="text-align: center; line-height: 1.8;">
+
+- 🔭 **Currently working on:** Real-time web projects & DSA mastery  
+- 🤝 **Open to:** Collaborations (open-source, hackathons, interesting ideas)  
+- 🛠️ **Exploring:** Backend engineering & system design  
+- 🌱 **Learning stack:** React • Node.js • Advanced DSA  
+- ⚡ **Superpower:** Turning midnight ideas into working projects by morning  
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://instagram.com/_rakshitha.g.v_">
-  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/rakshitha-velmurugan-713165378/">
-  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:gvrakshithaofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+## 🌐 Let's Connect
+
+<div align="center" style="margin: 30px 0;">
+
+[**Instagram**](https://instagram.com/_rakshitha.g.v_) • [**LinkedIn**](https://www.linkedin.com/in/rakshitha-velmurugan-713165378/) • [**Email**](mailto:gvrakshithaofficial@gmail.com)
+
+</div>
 
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,react,nodejs,mongodb,mysql,firebase,git,github&theme=dark" />
-</p>
+
+<div align="center" style="margin: 30px 0;">
+
+**Languages & Fundamentals**
+```
+C  •  C++  •  Python  •  Java
+```
+
+**Web Development**
+```
+HTML  •  CSS  •  React  •  Node.js
+```
+
+**Databases & Backend**
+```
+MongoDB  •  MySQL  •  Firebase
+```
+
+**Tools & Version Control**
+```
+Git  •  GitHub  •  VS Code
+```
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
-- 🔗 **Project 1** – Add your best project here  
-- 🔗 **Project 2** – Something with real users or API  
-- 🔗 **Project 3** – Full-stack app  
+
+<table align="center" style="width: 90%; max-width: 600px;">
+  <tr>
+    <td align="center" width="33.33%">
+      <h4>📱 Project One</h4>
+      <p style="font-size: 12px; color: #999;">Real-time web app</p>
+      <p><a href="#">View</a></p>
+    </td>
+    <td align="center" width="33.33%">
+      <h4>🛠️ Project Two</h4>
+      <p style="font-size: 12px; color: #999;">Full-stack solution</p>
+      <p><a href="#">View</a></p>
+    </td>
+    <td align="center" width="33.33%">
+      <h4>⚙️ Project Three</h4>
+      <p style="font-size: 12px; color: #999;">DSA + Algorithm</p>
+      <p><a href="#">View</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rakshitha-dotpy&show_icons=true&theme=radical" />
-<img src="https://streak-stats.demolab.com?user=rakshitha-dotpy&theme=radical" />
-</p>
+## 📊 GitHub Highlights
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitha-dotpy&layout=compact&theme=radical" />
-</p>
+<div align="center" style="margin: 30px 0;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshitha-dotpy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=fff&border_radius=10)
+
+![Streak Stats](https://streak-stats.demolab.com?user=rakshitha-dotpy&theme=radical&border_radius=10&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitha-dotpy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&border_radius=10)
+
+</div>
 
 ---
 
-## ✨ Quote I like
-> “First, solve the problem. Then, write the code.”
+## ✨ Inspiration
+
+<div align="center" style="margin: 40px 0; font-style: italic; color: #ff69b4; font-size: 16px;">
+
+> "First, solve the problem. Then, write the code."
+
+*— The philosophy behind every project*
+
+</div>
+
+---
+
+<div align="center" style="margin: 30px 0; font-size: 12px; color: #888;">
+
+Made with 💖 by **Rakshitha**
+
+</div>
