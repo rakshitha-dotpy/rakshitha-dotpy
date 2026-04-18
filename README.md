@@ -10,7 +10,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 Hi, I’m Rakshitha — a B.Sc Cyber Security student focused on building real-world web applications and strengthening problem-solving skills through DSA.
 
