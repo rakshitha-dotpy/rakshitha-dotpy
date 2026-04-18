@@ -42,7 +42,7 @@ I’m open to collaborations, hackathons, and opportunities that help me grow as
 
 ---
 
-## ✨ Quote
+##  Quote
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <i>"I’m not there yet — but I’m closer than yesterday."</i></p>
 </p>
