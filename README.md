@@ -11,11 +11,12 @@
 ---
 
 ## 💫 About Me
-- 🔭 Working on real-time web projects & DSA  
-- 🤝 Open to collaboration (open-source, hackathons)  
-- 🛠️ Exploring backend development & system design  
-- 🌱 Learning React, Node.js & Data Structures  
-- ⚡ Turning random ideas into working projects  
+
+Hi, I’m Rakshitha — a B.Sc Cyber Security student focused on building real-world web applications and strengthening problem-solving skills through DSA.
+
+I’m currently exploring backend development and system design, with an interest in creating scalable and practical solutions. I enjoy turning ideas into working projects and learning by building.
+
+I’m open to collaborations, hackathons, and opportunities that help me grow as a developer.
 
 ---
 
