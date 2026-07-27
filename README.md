@@ -18,7 +18,7 @@ I’m currently exploring backend development and system design, with an interes
 
 I’m open to collaborations, hackathons, and opportunities that help me grow as a developer.
 
----
+----
 
 ## 🌐 Connect With Me
 <p align="center">
